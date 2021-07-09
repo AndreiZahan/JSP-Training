@@ -1,0 +1,6 @@
+127.0.0.1 - - [09/Jul/2021:18:42:38 +0300] "GET /MyWebApp HTTP/1.1" 302 - http-bio-8080-exec-2 0
+127.0.0.1 - - [09/Jul/2021:18:42:38 +0300] "GET /MyWebApp HTTP/1.1" 302 - http-bio-8080-exec-1 0
+127.0.0.1 - - [09/Jul/2021:18:42:41 +0300] "GET /MyWebApp/ HTTP/1.1" 200 968 http-bio-8080-exec-4 2123
+127.0.0.1 - - [09/Jul/2021:18:42:46 +0300] "POST /MyWebApp/login HTTP/1.1" 200 1155 http-bio-8080-exec-6 1834
+127.0.0.1 - - [09/Jul/2021:18:43:03 +0300] "GET /MyWebApp HTTP/1.1" 302 - http-bio-8080-exec-7 0
+127.0.0.1 - - [09/Jul/2021:18:43:03 +0300] "GET /MyWebApp/ HTTP/1.1" 200 968 http-bio-8080-exec-8 5
